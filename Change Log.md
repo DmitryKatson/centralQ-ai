@@ -4,6 +4,10 @@
 **CentralQ.ai** is an AI-powered search engine that utilizes the collective knowledge of the Business Central community to provide accurate and relevant answers to your queries.
 
 ## Versions
+
+### 27 March 2023
+- Added sources to the main page (/kb page)
+
 ### 21 March 2023
 - Adding source links as citations and a source links part
 - Restructured prompt. No need to type "Business Central" (in most cases will recognize it)
