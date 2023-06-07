@@ -1,75 +1,73 @@
-https://alguidelines.dev,
-https://www.kristenhosman.com,
-https://www.shannonmullinsmsft.com,
-https://thedynamicsexplorer.com,
-https://www.kerrypeters.com,
-https://joshanglesea.wordpress.com, 
-https://chrisdsilvablog.wordpress.com,
-https://www.matnav.co.uk,
-https://www.dynamicsnavconsultant.com,
-https://www.fajdiga.info, 
-https://bc365.co, 
-https://kimdandnavbc.com, 
-https://freddysblog.com, 
-https://cloudblogs.microsoft.com/dynamics365/author/christianheidedamm,
-https://bcinternals.com, 
-https://www.waldo.be, 
-https://demiliani.com, 
-https://www.hougaard.com, 
-https://vjeko.com, 
-https://blog.kine.cz,
-https://www.sauravdhyani.com, 
-https://www.mynavblog.com, 
-https://katson.com, 
-https://thinkaboutit.be, 
-https://thedenster.com, 
-https://robertostefanettinavblog.com, 
-https://tobiasfenster.io, 
-https://www.kauffmann.nl,
-https://dynamics.is, 
-https://www.tharangac.com,
-https://yzhums.com, 
-https://stefanmaron.com,
-https://totovic.com,
-https://jpearson.blog,
-http://jatinnav.com,
-https://navessentials.wordpress.com,
-https://ricardomoinhos.com, 
-https://jeremy.vyska.info, 
-https://never-stop-learning.de, 
-https://blog.sshadows.dk, 
-https://d365bcblog.com,
-https://marijebrummel.blog,
-https://navinsights.net,
-https://kepty.cz,
-https://svirlan.com,
-https://businesscentralgeek.com,
-https://mmilince.com,
-https://simonofhh.tech, 
-https://thatnavguy.com,
-https://mybusinesscentraldiary.wordpress.com,
-https://www.fluxxus.nl,
-https://ivansingleton.dev,
-https://www.olisterr.tech,
-https://patrickschiefer.com,
-https://www.dvlprlife.com,
-https://nataliekarolak.wordpress.com,
-https://joshanglesea.wordpress.com,
-https://matalino.io,
-https://bcdev.tech,
-https://www.businesscentralsolutiondesign.com,
-https://www.bertverbeek.nl,
-https://www.j3ns.de,
-https://erpconsultors.com,
-https://navnilesh.blogspot.com,
-http://fredborg.org,
-https://alexandrahorbatenko.blogspot.com,
-https://maique00.wixsite.com/blog,
-https://blog.msdyn365bc.es,
-https://powertips.es,
-https://techspheredynamics.com,
-https://www.keytogoodcode.com,
-https://blog.versionmanager.dk,
-https://cloudblogs.microsoft.com/dynamics365,
-https://www.bertverbeek.nl,
-https://navfreak.com
+url,attribute name,attribute value
+https://alguidelines.dev,class,td-content
+https://www.kristenhosman.com,class,post-outer-container
+https://www.shannonmullinsmsft.com,class,post-outer
+https://thedynamicsexplorer.com,class,entry-content
+https://www.kerrypeters.com,data-test,page-section
+https://joshanglesea.wordpress.com,class,entry-content
+https://chrisdsilvablog.wordpress.com,class,entry-content
+https://www.matnav.co.uk,class,entry-content
+https://www.dynamicsnavconsultant.com,class,entry-content single-page
+https://www.fajdiga.info,class,article-content
+https://bc365.co,data-elementor-type,wp-post 
+https://kimdandnavbc.com,class,single-post-wrap entry-content
+https://freddysblog.com,class,entry-content
+https://bcinternals.com,id,main
+https://www.waldo.be,class,entry clearfix
+https://demiliani.com,class,entry-content
+https://www.hougaard.com,id,content
+https://vjeko.com,class,entry-content clr
+https://blog.kine.cz,class,post
+https://www.sauravdhyani.com,class,post-outer
+https://www.mynavblog.com,id,content
+https://katson.com,data-elementor-type,wp-post
+https://thinkaboutit.be,class,entry-content clearfix
+https://thedenster.com,class,entry-content 
+https://robertostefanettinavblog.com,class,entry-content clearfix
+https://tobiasfenster.io,class,post-content
+https://www.kauffmann.nl,class,entry-content
+https://dynamics.is,class,entry-content
+https://www.tharangac.com,class,entry clearfix
+https://yzhums.com,class,entry-content cf
+https://stefanmaron.com,class,entry-content
+https://totovic.com,class,entry-content
+https://jpearson.blog,class,entry-content
+http://jatinnav.com,class,entry-content
+https://navessentials.wordpress.com,class,entry-content
+https://ricardomoinhos.com,class,entry-content
+https://jeremy.vyska.info,class,entry-content 
+https://never-stop-learning.de,class,entry-content
+https://blog.sshadows.dk,class,entry-content
+https://d365bcblog.com,class,entry-content
+https://marijebrummel.blog,class,entry-content
+https://navinsights.net,class,entry-content
+https://kepty.cz,class,et_pb_module et_pb_post_content et_pb_post_content_0_tb_body
+https://svirlan.com,class,elementor-widget-container
+https://businesscentralgeek.com,class,entry-content
+https://mmilince.com,class,entry-content clearfix
+https://simonofhh.tech,class,entry-content 
+https://thatnavguy.com,class,post-inner group
+https://mybusinesscentraldiary.wordpress.com,class,entry-content
+https://www.fluxxus.nl,class,entry-content
+https://ivansingleton.dev,class,entry-content
+https://www.olisterr.tech,class,post-content container
+https://patrickschiefer.com,class,entry-content
+https://www.dvlprlife.com,class,entry-content clearfix
+https://nataliekarolak.wordpress.com,class,entry-content wp-block-post-content is-layout-constrained wp-block-post-content-is-layout-constrained
+https://matalino.io,class,blog-item-content-wrapper
+https://bcdev.tech,class,entry-content clear
+https://www.businesscentralsolutiondesign.com,class,post-content__body
+https://www.bertverbeek.nl,class,entry-content
+https://www.j3ns.de,id,main
+https://erpconsultors.com,class,thecontent
+https://navnilesh.blogspot.com,class,post hentry uncustomized-post-template
+http://fredborg.org,class,entry-content
+https://alexandrahorbatenko.blogspot.com,class,post-body entry-content float-container
+https://maique00.wixsite.com/blog,class,post-content__body
+https://blog.msdyn365bc.es,class,post-body entry-content
+https://powertips.es,class,mg-blog-post-box
+https://techspheredynamics.com,class,entry-content
+https://www.keytogoodcode.com,class,post-content__body
+https://blog.versionmanager.dk,class,entry-content
+https://navfreak.com,class,entry
+https://cloudblogs.microsoft.com/dynamics365,class,single__content
