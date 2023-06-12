@@ -9,7 +9,7 @@
 CentralQ.ai makes use of the following APIs:
 
 - **Knowledgeable** - Content from Microsoft Learn and blogs, used for semantic search.
-- **Operand** - A semantic search API provided by Operand (https://operand.ai/).
+- **Qdrant** - A semantic search vector database provided by Qdrant (https://qdrant.tech/).
 - **OpenAI** - An answer generation API provided by OpenAI (https://openai.com/).
 - **Upstash** - A Redis-based caching service provided by Upstash (https://upstash.com/) for rate limiting.
 - **Azure Tables** - A NoSQL database service provided by Microsoft Azure (https://portal.azure.com/) used to store search logs.

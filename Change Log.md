@@ -5,6 +5,10 @@
 
 ## Versions
 
+### 12 June 2023
+- Moved entire indexed knowledgebase from Operand to Qdrand, as Operand decided to close it's service since 15 of June
+- Added 'Code focused' mode. This will search qdrant only on embeddings from https://github.com/microsoft/ALAppExtensions/tree/main/Modules and will generate AL code snippets, if possible
+
 ### 27 March 2023
 - Added sources to the main page (/kb page)
 
