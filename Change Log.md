@@ -5,6 +5,12 @@
 
 ## Versions
 
+### 13 August 2023
+- Added books to the search index. Now you can search for books, and it will show you the book page, and the page with the book content
+
+### 12 July 2023
+- Added YouTube videos to the search index. Now you can search for videos, and it will show you the video page starting from the moment where the answer is
+
 ### 12 June 2023
 - Moved entire indexed knowledgebase from Operand to Qdrand, as Operand decided to close it's service since 15 of June
 - Added 'Code focused' mode. This will search qdrant only on embeddings from https://github.com/microsoft/ALAppExtensions/tree/main/Modules and will generate AL code snippets, if possible
