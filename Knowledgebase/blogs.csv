@@ -1,6 +1,6 @@
 url,attribute name,attribute value
 https://alguidelines.dev,class,td-content
-https://www.kristenhosman.com,class,post-outer-container
+https://www.kristenhosman.com,class,post-body entry-content float-container
 https://www.shannonmullinsmsft.com,class,post-outer
 https://thedynamicsexplorer.com,class,entry-content
 https://www.kerrypeters.com,data-test,page-section
@@ -9,56 +9,53 @@ https://chrisdsilvablog.wordpress.com,class,entry-content
 https://www.matnav.co.uk,class,entry-content
 https://www.dynamicsnavconsultant.com,class,entry-content single-page
 https://www.fajdiga.info,class,article-content
-https://bc365.co,data-elementor-type,wp-post 
+https://bc365.co,class,entry-content clear
 https://kimdandnavbc.com,class,single-post-wrap entry-content
 https://freddysblog.com,class,entry-content
-https://bcinternals.com,id,main
+https://bcinternals.com,class,content e-content
 https://www.waldo.be,class,entry clearfix
 https://demiliani.com,class,entry-content
-https://www.hougaard.com,id,content
 https://vjeko.com,class,entry-content clr
 https://blog.kine.cz,class,post
 https://www.sauravdhyani.com,class,post-outer
 https://www.mynavblog.com,id,content
 https://katson.com,data-elementor-type,wp-post
+https://katson.com,data-elementor-type,single-post
 https://thinkaboutit.be,class,entry-content clearfix
-https://thedenster.com,class,entry-content 
 https://robertostefanettinavblog.com,class,entry-content clearfix
 https://tobiasfenster.io,class,post-content
 https://www.kauffmann.nl,class,entry-content
 https://dynamics.is,class,entry-content
 https://www.tharangac.com,class,entry clearfix
 https://yzhums.com,class,entry-content cf
-https://stefanmaron.com,class,entry-content
+https://stefanmaron.com,class,page-content
 https://totovic.com,class,entry-content
 https://jpearson.blog,class,entry-content
-http://jatinnav.com,class,entry-content
 https://navessentials.wordpress.com,class,entry-content
 https://ricardomoinhos.com,class,entry-content
-https://jeremy.vyska.info,class,entry-content 
+https://jeremy.vyska.info,class,entry-content
 https://never-stop-learning.de,class,entry-content
 https://blog.sshadows.dk,class,entry-content
 https://d365bcblog.com,class,entry-content
 https://marijebrummel.blog,class,entry-content
 https://navinsights.net,class,entry-content
 https://kepty.cz,class,et_pb_module et_pb_post_content et_pb_post_content_0_tb_body
-https://svirlan.com,class,elementor-widget-container
+https://svirlan.com,class,elementor-element elementor-element-53bc47b elementor-widget elementor-widget-theme-post-content
 https://businesscentralgeek.com,class,entry-content
 https://mmilince.com,class,entry-content clearfix
-https://simonofhh.tech,class,entry-content 
+https://simonofhh.tech,class,entry-content
 https://thatnavguy.com,class,post-inner group
 https://mybusinesscentraldiary.wordpress.com,class,entry-content
 https://www.fluxxus.nl,class,entry-content
 https://ivansingleton.dev,class,entry-content
-https://www.olisterr.tech,class,post-content container
 https://patrickschiefer.com,class,entry-content
 https://www.dvlprlife.com,class,entry-content clearfix
-https://nataliekarolak.wordpress.com,class,entry-content wp-block-post-content is-layout-constrained wp-block-post-content-is-layout-constrained
+https://nataliekarolak.wordpress.com,class,post-content clear
 https://matalino.io,class,blog-item-content-wrapper
 https://bcdev.tech,class,entry-content clear
 https://www.businesscentralsolutiondesign.com,class,post-content__body
 https://www.bertverbeek.nl,class,entry-content
-https://www.j3ns.de,id,main
+https://www.j3ns.de,id,primary
 https://erpconsultors.com,class,thecontent
 https://navnilesh.blogspot.com,class,post hentry uncustomized-post-template
 http://fredborg.org,class,entry-content
@@ -77,3 +74,5 @@ https://gerardorenteria.blog/,class,entry-content wp-block-post-content has-x-sm
 https://bcdevnotebook.com/,class,entry-content
 https://cynthiapriebe.com/,class,entry-content
 https://duiliotacconi.com/,class,post-content clear
+https://vandyck.net/,class,entry-content
+https://www.wanamics.fr/,class,entry clearfix
