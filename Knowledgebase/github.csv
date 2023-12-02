@@ -1,2 +1,7 @@
 url,attribute name,attribute value
 https://github.com/microsoft/BCApps,branch,main
+https://dev.azure.com/InsightWorks/External%20Examples/_git/Quality%20Inspector%20Examples,branch,main
+https://dev.azure.com/InsightWorks/External%20Examples/_git/Order%20Ship%20Express%20Examples,branch,main
+https://dev.azure.com/InsightWorks/External%20Examples/_git/Warehouse%20Insight%20Examples,branch,main
+https://dev.azure.com/InsightWorks/External%20Examples/_git/Graphical%20Scheduler%20Examples,branch,main
+https://dev.azure.com/InsightWorks/External%20Examples/_git/Dynamic%20Ship%20Examples,branch,main
