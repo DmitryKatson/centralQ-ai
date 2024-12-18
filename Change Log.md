@@ -5,6 +5,9 @@
 
 ## Versions
 
+### 18 December 2024
+- Added sponsorship feature allowing community members to support the project and help cover infrastructure costs
+
 ### 13 August 2023
 - Added books to the search index. Now you can search for books, and it will show you the book page, and the page with the book content
 
